@@ -4,8 +4,8 @@ author: "Sarah Pederzani"
 date: "January 2024 - University of Utah"
 output: html_document
 colors:
-    gradient_left: "#155799"
-    gradient_right: "#159957"
+    gradient_left: "#020344"
+    gradient_right: "#28B8D5"
     header: "#fff"
     android_theme: "#000" # this default to gradient_color
     link: "#1e6bb8" # this default to gradient_color
