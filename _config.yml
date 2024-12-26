@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: tuur29/pages-themes-cayman
 title: "Introduction to Proxy System Models"
 colors:
     gradient_left: "#020344"
