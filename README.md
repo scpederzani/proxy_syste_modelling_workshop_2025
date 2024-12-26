@@ -3,7 +3,7 @@
 
 ## Schedule
 
-| Time          | Fri Jan 17th - Room 438      &nbsp;        | Format    | Instructor  |
+| Time          | Fri Jan 17th - Room 438      &nbsp;&nbsp;        | Format    | Instructor  |
 | ------------- | ------------------------------------ | --------- | ----------- |
 | 09:00--10:30  | Introduction to Proxy System Models  | Lecture   | Gabe        |
 | 10:30--11:00  | Morning Break                        |           |             |
