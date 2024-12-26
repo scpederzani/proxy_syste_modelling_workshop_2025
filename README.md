@@ -3,7 +3,7 @@
 
 ## Schedule
 
-| Time          | Fri Jan 17th - Room 438              | Format    | Instructor  |
+| Time          | Fri Jan 17th - Room 438      &nbsp;        | Format    | Instructor  |
 | ------------- | ------------------------------------ | --------- | ----------- |
 | 09:00--10:30  | Introduction to Proxy System Models  | Lecture   | Gabe        |
 | 10:30--11:00  | Morning Break                        |           |             |
@@ -23,7 +23,7 @@
 | 14:30--15:00  | Afternoon Break                      |           |             |
 | 15:00--16:30  | Bayesian Models in R and JAGS Part 2 | Practical | Sarah       |
 
-| Time          | Sun Jan 19th - 303/GSCE              | Location  |
+| Time          | Sun Jan 19th - 303/GSCE     &nbsp;         | Location &nbsp; |
 | ------------- | ------------------------------------ | --------- |
 | 09:00--10:30  | Post/Pre-Docs: recap & project prep  | GSCE Seminar Room |
 |               | PIs: PI meeting                      | Room 303 |
