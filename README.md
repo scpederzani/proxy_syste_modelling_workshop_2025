@@ -27,12 +27,12 @@
 |  Sun Jan 19th | Postdocs & Grad Students  | PIs        |
 | ------------- | ------------------------- | ---------- | 
 | 09:00--10:30  | recap & prep for projects | PI meeting | 
-| 10:30--11:00  | Morning Break             |            |         
+| 10:30--11:00  | Morning Break                         |         
 | 11:00--12:00  | recap & prep for projects | PI meeting | 
-| 12:00--13:00  | Lunch Break               |            |   
-| 13:00--14:30  | Full group meeting        |            | 
-| 14:30--15:00  | Afternoon Break           |            |   
-| 15:00--16:30  | Full group meeting        |            | 
+| 12:00--13:00  | Lunch Break                           |   
+| 13:00--14:30  | Full group meeting                    | 
+| 14:30--15:00  | Afternoon Break                       |   
+| 15:00--16:30  | Full group meeting                    | 
 
 
 
