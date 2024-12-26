@@ -9,7 +9,7 @@
 | ------------- | ------------------------------------ | --------- | ----------- |
 | 09:00--10:30  | [Introduction to Proxy System Models](PSM_intro.md)  | Lecture   | Gabe        |
 | 10:30--11:00  | Morning Break                        |           |             |
-| 11:00--12:00  | Introduction to Proxy System Models  | Lecture   | Sarah       |
+| 11:00--12:00  | [Introduction to Karst Modelling](karst_modelling.md)  | Lecture   | Sarah       |
 | 12:00--13:00  | Lunch Break                          |           |             |
 | 13:00--14:30  | Bayesian Statistics Part 1           | Lecture   | Sarah       |
 | 14:30--15:00  | Afternoon Break                      |           |             |
