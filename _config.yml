@@ -1,8 +1,5 @@
 theme: jekyll-theme-cayman
 title: "Introduction to Proxy System Models"
-author: "Sarah Pederzani"
-date: "January 2024 - University of Utah"
-output: html_document
 colors:
     gradient_left: "#020344"
     gradient_right: "#28B8D5"
