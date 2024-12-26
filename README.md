@@ -3,7 +3,7 @@
 
 ## Schedule
 
-| Time          | Fri Jan 17th                         | Format    | Instructor  | 
+| Time          | Fri Jan 17th - Room 438              | Format    | Instructor  |
 | ------------- | ------------------------------------ | --------- | ----------- |
 | 09:00--10:30  | Introduction to Proxy System Models  | Lecture   | Gabe        |
 | 10:30--11:00  | Morning Break                        |           |             |
@@ -13,7 +13,7 @@
 | 14:30--15:00  | Afternoon Break                      |           |             |
 | 15:00--16:30  | Bayesian Statistics Part 2           | Lecture   | Sarah       |
 
-|               | Sat Jan 18th                         |           |             |
+| Time          | Sat Jan 18th - Room 303              | Format    | Instructor  |
 | ------------- | ------------------------------------ | --------- | ----------- |
 | 09:00--10:30  | Forward Simulations Part 1           | Practical | Sarah       |
 | 10:30--11:00  | Morning Break                        |           |             |
@@ -23,17 +23,17 @@
 | 14:30--15:00  | Afternoon Break                      |           |             |
 | 15:00--16:30  | Bayesian Models in R and JAGS Part 2 | Practical | Sarah       |
 
-|               | Sun Jan 18th                         |   
-| ------------- | ------------------------------------ | 
-| 09:00--10:30  | Post/Pre-Docs: recap & project prep  | 
-|               | PIs: PI meeting                      |
+| Time          | Sun Jan 19th - 303/GSCE              | Location  |
+| ------------- | ------------------------------------ | --------- |
+| 09:00--10:30  | Post/Pre-Docs: recap & project prep  | GSCE Seminar Room |
+|               | PIs: PI meeting                      | Room 303 |
 | 10:30--11:00  | Morning Break                        |         
-| 11:00--12:00  | Post/Pre-Docs: recap & project prep  | 
-|               | PIs: PI meeting                      |
+| 11:00--12:00  | Post/Pre-Docs: recap & project prep  |  GSCE Seminar Room |
+|               | PIs: PI meeting                      | Room 303 |
 | 12:00--13:00  | Lunch Break                          |   
-| 13:00--14:30  | Full group meeting                   | 
+| 13:00--14:30  | Full group meeting                   |  Room 303 |
 | 14:30--15:00  | Afternoon Break                      |   
-| 15:00--16:30  | Full group meeting                   | 
+| 15:00--16:30  | Full group meeting                   |  Room 303 |
 
 
 
