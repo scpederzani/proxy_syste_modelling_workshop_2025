@@ -8,8 +8,8 @@ hide_first_title: false # Useful if README.md is used on both github and pages
 logo_url: ./logo.png # Either absolute or relative url
 syntax_theme: ./syntax.css # Leave empty for default, otherwise link to a pygments stylesheet
 colors:
-    gradient_left: "#155799"
-    gradient_right: "#159957"
+    gradient_left: "#020344"
+    gradient_right: "#28B8D5"
     header: "#fff"
     android_theme: "#000" # this default to gradient_color
     link: "#1e6bb8" # this default to gradient_color
