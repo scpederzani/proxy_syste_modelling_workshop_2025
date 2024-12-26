@@ -12,7 +12,7 @@
 | 13:00--14:30  | Bayesian Statistics Part 1           | Lecture   | Sarah       |
 | 14:30--15:00  | Afternoon Break                      |           |             |
 | 15:00--16:30  | Bayesian Statistics Part 2           | Lecture   | Sarah       |
-| ------------- | ------------------------------------ | --------- | ----------- |
+
 |               | Sat Jan 18th                         |           |             |
 | ------------- | ------------------------------------ | --------- | ----------- |
 | 09:00--10:30  | Forward Simulations Part 1           | Practical | Sarah       |
@@ -22,9 +22,9 @@
 | 13:00--14:30  | Bayesian Models in R and JAGS Part 1 | Practical | Sarah       |
 | 14:30--15:00  | Afternoon Break                      |           |             |
 | 15:00--16:30  | Bayesian Models in R and JAGS Part 2 | Practical | Sarah       |
-| ------------- | ------------------------------------ | --------- | ----------- |
-|               | Sun Jan 18th                         |           |             |
-| ------------- | ------------------------------------ | --------- | ----------- |
+
+|               | Sun Jan 18th                         |   
+| ------------- | ------------------------------------ | 
 | 09:00--10:30  | Post/Pre-Docs: recap & project prep  | 
 |               | PIs: PI meeting                      |
 | 10:30--11:00  | Morning Break                        |         
