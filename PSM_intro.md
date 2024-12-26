@@ -3,6 +3,13 @@ title: "Introduction to Proxy System Models"
 author: "Sarah Pederzani"
 date: "January 2024 - University of Utah"
 output: html_document
+colors:
+    gradient_left: "#155799"
+    gradient_right: "#159957"
+    header: "#fff"
+    android_theme: "#000" # this default to gradient_color
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#155799" # this default to gradient_color
 ---
 
 
