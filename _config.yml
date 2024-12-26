@@ -7,3 +7,4 @@ colors:
     android_theme: "#000" # this default to gradient_color
     link: "#1e6bb8" # this default to gradient_color
     section_title: "#020344" # this default to gradient_color
+    header-bg-color: "#28B8D5"
