@@ -7,15 +7,19 @@ output: html_document
 
 We will discuss Bayesian proxy system modelling of karst systems and stalagmite records and work on individual small projects. 
 
-The workshop will start out with one day of lectures introducing fundamental concepts, which we will start applying in practical coding exercises on Day 2. See the full schedule [below](#Schedule). 
+The workshop will start out with one day of lectures introducing fundamental concepts, which we will start applying in practical coding exercises on Day 2. See the full schedule [below](#schedule). 
   
-Day 2 will demonstrate how to use simulations to construct and test PSM model structures and teach the fundamentals of JAGS - the Bayesian modelling language we will use. Full participation in the coding exercises requires a basic knowledge of R coding and working installations of the necessary software. Please see software pre-requisites and installation instructions [here](#Prerequisites). Anyone is welcome to sit in on Day 2 without coding actively to get the conceptual ideas of model construction.  
+Day 2 will demonstrate how to use simulations to construct and test PSM model structures and teach the fundamentals of JAGS - the Bayesian modelling language we will use. Full participation in the coding exercises requires a basic knowledge of R coding and working installations of the necessary software. Please see software pre-requisites and installation instructions [here](#prerequisites). Anyone is welcome to sit in on Day 2 without coding actively to get the conceptual ideas of model construction.  
 
 Project work participants also please make sure to prepare your data following the data format [guidelines](#data-cleaning). 
     
-Topic links in the [schedule](#Schedule) will lead to brief summaries of covered content. At a later date slides and code files will be available for download as well. 
+Topic links in the [schedule](#schedule) will lead to brief summaries of covered content. At a later date slides and code files will be available for download as well. 
+
+[TOC]
       
-# Prerequisites
+<h1 id="prerequisites">
+Prerequisites
+</h1>
 ## Software
 If you plan on participating in the programming classes on Day 2 you will need:
   
@@ -65,7 +69,9 @@ Some general data cleaning/formatting guidelines:
 
 Since most people will use some data that I have previously cleaned this will ensure that units and formats are compatible across data sets and you don't end up spending too much time reformating things during the workshop. 
       
-# Schedule
+<h1 id="schedule">
+Schedule
+</h1>
       
 ## Friday
       
