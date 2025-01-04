@@ -14,6 +14,8 @@ Day 2 will demonstrate how to use simulations to construct and test PSM model st
 Project work participants also please make sure to prepare your data following the data format [guidelines](#data-cleaning). 
     
 Topic links in the [schedule](#schedule) will lead to brief summaries of covered content. At a later date slides and code files will be available for download as well. 
+
+Ressources for project participants are available on a dedicated [ressources page](resources.md). 
       
 <h1 id="prerequisites">
 Prerequisites
