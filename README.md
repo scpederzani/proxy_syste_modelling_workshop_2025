@@ -51,9 +51,9 @@ You will need to install the CalvinBayes package using devtools. Run the followi
 | 10:30 &ndash; 11:00  | Morning Break                        |           |             |
 | 11:00 &ndash; 12:00  | [Introduction to Karst Modelling](karst_modelling.md)  | Lecture   | Sarah       |
 | 12:00 &ndash; 13:00  | Lunch Break                          |           |             |
-| 13:00 &ndash; 14:30  | Bayesian Statistics           | Lecture   | Sarah       |
+| 13:00 &ndash; 14:30  | [Bayesian Statistics](Bayesian_Stats.md)           | Lecture   | Sarah       |
 | 14:30 &ndash; 15:00  | Afternoon Break                      |           |             |
-| 15:00 &ndash; 16:30  | Bayesian Statistics (cont.)           | Lecture   | Sarah       |
+| 15:00 &ndash; 16:30  | [Bayesian Statistics](Bayesian_Stats.md) (cont.)           | Lecture   | Sarah       |
 
 ## Saturday
 
