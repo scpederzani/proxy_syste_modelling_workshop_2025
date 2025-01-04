@@ -11,12 +11,12 @@ The workshop will start out with one day of lectures introducing fundamental con
   
 Day 2 will demonstrate how to use simulations to construct and test PSM model structures and teach the fundamentals of JAGS - the Bayesian modelling language we will use. Full participation in the coding exercises requires a basic knowledge of R coding and working installations of the necessary software. Please see software pre-requisites and installation instructions [here](#Prerequisites). Anyone is welcome to sit in on Day 2 without coding actively to get the conceptual ideas of model construction.  
 
-Project work participants also please make sure to prepare your data following the data format [guidelines](###Data cleaning). 
+Project work participants also please make sure to prepare your data following the data format [guidelines](<#Data cleaning>). 
     
 Topic links in the [schedule](#Schedule) will lead to brief summaries of covered content. At a later date slides and code files will be available for download as well. 
       
-## Prerequisites
-### Software
+# Prerequisites
+## Software
 If you plan on participating in the programming classes on Day 2 you will need:
   
 - a working installation of R and RStudio
@@ -25,7 +25,7 @@ If you plan on participating in the programming classes on Day 2 you will need:
       
 Please go through the installations steps in order to make sure that each software is linked correctly to its prerequisites. 
       
-#### R and RStudio
+### R and RStudio
       
 First, download the most recent R installation file [here](https://ftp.osuosl.org/pub/cran/) and follow the installation instructions for your operating system. 
       
@@ -34,11 +34,11 @@ Then install RStudio. RStudio is a coding environment that makes using R much mo
 For reference on the level of R skills needed you can take a look at this introductory course (chapters 1-8 essential, 1-13 ideal): 
 [https://swcarpentry.github.io/r-novice-gapminder/index.html](https://swcarpentry.github.io/r-novice-gapminder/index.html)
       
-#### JAGS
+### JAGS
       
 JAGS is the program that we use to run our Bayesian models. Download the installation file [here](https://sourceforge.net/projects/mcmc-jags/) and run through the installation. 
       
-#### R packages
+### R packages
       
 You will need the following R packages: tidyverse, R2jags, bayesplot, CalvinBayes, palmerpenguins, patchwork, devtools
       
@@ -48,7 +48,7 @@ You will need to install the CalvinBayes package using devtools. Run the followi
         
 `devtools::install_github("rpruim/CalvinBayes")`
 
-### Data cleaning
+# Data cleaning
 
 For the participants of the project portion - please make sure to bring cleaned data that you will need for your project. I have deposited some cleaned data in a shared folder you should have access to. You can use that as a template for formatting your own files. 
 
@@ -63,9 +63,9 @@ Some general data cleaning/formatting guidelines:
 
 Since most people will use some data that I have previously cleaned this will ensure that units and formats are compatible across data sets and you don't end up spending too much time reformating things during the workshop. 
       
-## Schedule
+# Schedule
       
-### Friday
+## Friday
       
 | Time          | Fri Jan 17th - Room 438              | Format    | Instructor  |
 | ------------- | ------------------------------------ | --------- | ----------- |
@@ -77,7 +77,7 @@ Since most people will use some data that I have previously cleaned this will en
 | 14:30 &ndash; 15:00  | Afternoon Break                      |           |             |
 | 15:00 &ndash; 16:30  | [Bayesian Statistics](Bayesian_Stats.md) (cont.)           | Lecture   | Sarah       |
         
-### Saturday
+## Saturday
         
 | Time          | Sat Jan 18th - Room 303              | Format    | Instructor  |
 | ------------- | ------------------------------------ | --------- | ----------- |
@@ -89,7 +89,7 @@ Since most people will use some data that I have previously cleaned this will en
 | 14:30 &ndash; 15:00  | Afternoon Break                      |           |             |
 | 15:00 &ndash; 16:30  | Bayesian Models in R and JAGS Part 2 | Practical | Sarah       |
         
-### Sunday
+## Sunday
         
 | Time          | Sun Jan 19th - 303/GSCE     &nbsp;         | Location |
 | ------------- | ------------------------------------ | --------- |
@@ -103,7 +103,7 @@ Since most people will use some data that I have previously cleaned this will en
 | 14:30 &ndash; 15:00  | Afternoon Break                      |   
 | 15:00 &ndash; 16:30  | Full group meeting                   |  Room 303 |
         
-### Individual project work
+## Individual project work
         
 | Day          | Time            | Location          |
 | ------------ | --------------- | ----------------- |
