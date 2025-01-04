@@ -11,7 +11,7 @@ The workshop will start out with one day of lectures introducing fundamental con
   
 Day 2 will demonstrate how to use simulations to construct and test PSM model structures and teach the fundamentals of JAGS - the Bayesian modelling language we will use. Full participation in the coding exercises requires a basic knowledge of R coding and working installations of the necessary software. Please see software pre-requisites and installation instructions [here](#Prerequisites). Anyone is welcome to sit in on Day 2 without coding actively to get the conceptual ideas of model construction.  
 
-Project work participants also please make sure to prepare your data following the data format [guidelines](<#Data cleaning>). 
+Project work participants also please make sure to prepare your data following the data format [guidelines](#data-cleaning). 
     
 Topic links in the [schedule](#Schedule) will lead to brief summaries of covered content. At a later date slides and code files will be available for download as well. 
       
@@ -48,7 +48,9 @@ You will need to install the CalvinBayes package using devtools. Run the followi
         
 `devtools::install_github("rpruim/CalvinBayes")`
 
-# Data cleaning
+<h2 id="data-cleaning">
+Data cleaning
+</h2>
 
 For the participants of the project portion - please make sure to bring cleaned data that you will need for your project. I have deposited some cleaned data in a shared folder you should have access to. You can use that as a template for formatting your own files. 
 
