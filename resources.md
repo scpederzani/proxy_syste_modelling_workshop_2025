@@ -13,7 +13,7 @@ For specific functions we haven't covered you can check the [JAGS user manual](h
 
 ## R tutorials/resources
 
-# cheat sheets
+### cheat sheets
 
 [Base R cheat sheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
 
