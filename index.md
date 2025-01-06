@@ -9,13 +9,13 @@ We will discuss Bayesian proxy system modelling of karst systems and stalagmite 
 
 The workshop will start out with one day of lectures introducing fundamental concepts, which we will start applying in practical coding exercises on Day 2. See the full schedule [below](#schedule). 
   
-Day 2 will demonstrate how to use simulations to construct and test PSM model structures and teach the fundamentals of JAGS - the Bayesian modelling language we will use. Full participation in the coding exercises requires a basic knowledge of R coding and working installations of the necessary software. Please see software pre-requisites and installation instructions [here](#prerequisites). Anyone is welcome to sit in on Day 2 without coding actively to get the conceptual ideas of model construction.  
+Day 2 will demonstrate how to use simulations to construct and test PSM model structures and teach the fundamentals of JAGS - the Bayesian modelling language we will use. Full participation in the coding exercises requires a basic knowledge of R coding and working installations of the necessary software. Please see software pre-requisites and installation instructions [here](#prerequisites). Anyone is welcome to sit in on Day 2 without coding actively to get the conceptual ideas of model construction. For those newer to R there are cheat sheets and helpful resources on the [resources page](resources.md).  
 
 Project work participants also please make sure to prepare your data following the data format [guidelines](#data-cleaning). 
     
 Topic links in the [schedule](#schedule) will lead to brief summaries of covered content. At a later date slides and code files will be available for download as well. 
 
-Ressources for project participants are available on a dedicated [ressources page](resources.md). 
+Resources for project participants are available on a dedicated [ressources page](resources.md). 
       
 <h1 id="prerequisites">
 Prerequisites
