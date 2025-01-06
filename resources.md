@@ -11,4 +11,22 @@ In your projects you can use several types of climate data inputs, often from gr
 
 For specific functions we haven't covered you can check the [JAGS user manual](https://people.stat.sc.edu/hansont/stat740/jags_user_manual.pdf). 
 
-## R tutorials
+## R tutorials/resources
+
+# cheat sheets
+
+[Base R cheat sheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
+
+[RStudio cheat sheet](https://rstudio.github.io/cheatsheets/rstudio-ide.pdf)
+
+[dplyr cheat sheet](https://rstudio.github.io/cheatsheets/data-transformation.pdf) for data wrangling
+
+[tidyr cheat sheet](https://rstudio.github.io/cheatsheets/data-transformation.pdf) for data cleaning
+
+[ggplot cheat sheet](https://rstudio.github.io/cheatsheets/data-visualization.pdf) for data visualization
+
+[collection of all tidyverse cheat sheets](https://posit.co/resources/cheatsheets/) to cover all your other needs
+
+
+
+
