@@ -20,6 +20,14 @@ Ressources for project participants are available on a dedicated [ressources pag
 <h1 id="prerequisites">
 Prerequisites
 </h1>
+
+## Reading
+Fisher-Femal et al. paper on a soil carbonate Bayesian PSM
+[https://doi.org/10.1016/j.gca.2020.10.022](https://doi.org/10.1016/j.gca.2020.10.022)
+
+Treble et al. preprint for the KarstSolution model, which is a good example of a (non-Bayesian) karst model
+[https://doi.org/10.31223/osf.io/j4kn6](https://doi.org/10.31223/osf.io/j4kn6)
+
 ## Software
 If you plan on participating in the programming classes on Day 2 you will need:
   
@@ -56,7 +64,7 @@ You will need to install the CalvinBayes package using devtools. Run the followi
 Data cleaning
 </h2>
 
-For the participants of the project portion - please make sure to bring cleaned data that you will need for your project. I have deposited some cleaned data in a shared folder you should have access to. You can use that as a template for formatting your own files. 
+For the participants of the project portion - please make sure to bring cleaned data that you will need for your project. I have deposited some cleaned data in a shared folder I sent via email. You can use that as a template for formatting your own files. 
 
 Some general data cleaning/formatting guidelines:
 
@@ -110,6 +118,8 @@ Schedule
 | 13:00 &ndash; 14:30  | Full group meeting                   |  Room 303 |
 | 14:30 &ndash; 15:00  | Afternoon Break                      |   
 | 15:00 &ndash; 16:30  | Full group meeting                   |  Room 303 |
+
+**Group Dinner**
         
 ## Individual project work
         
