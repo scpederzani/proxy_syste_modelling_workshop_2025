@@ -7,11 +7,13 @@ output: html_document
 
 We will discuss Bayesian proxy system modelling of karst systems and stalagmite records and work on individual small projects. The workshop will take place in the Geology & Geophysics, Fredrick Albert Sutton Building. See bewlo for more information on [how to get there](#location). 
 
-The workshop will start out with one day of lectures introducing fundamental concepts, which we will start applying in practical coding exercises on Day 2. See the full schedule [below](#schedule). 
+The workshop will start out with one day of lectures introducing fundamental concepts, which we will start applying in practical coding exercises on Day 2. See the full [schedule](#schedule) below. 
   
-Day 2 will demonstrate how to use simulations to construct and test PSM model structures and teach the fundamentals of JAGS - the Bayesian modelling language we will use. Full participation in the coding exercises requires a basic knowledge of R coding and working installations of the necessary software. Please see software pre-requisites and installation instructions [here](#prerequisites). Anyone is welcome to sit in on Day 2 without coding actively to get the conceptual ideas of model construction. For those newer to R there are cheat sheets and helpful resources on the [resources page](resources.md).  
+Day 2 will demonstrate how to use simulations to construct and test PSM model structures and teach the fundamentals of JAGS - the Bayesian modelling language we will use. Full participation in the coding exercises requires a basic knowledge of R coding and working installations of the necessary software. Please see check out software [pre-requisites](#prerequisites) and installation instructions before the workshop. There is also information on [how to connect to WiFi](#wifi) on campus. 
 
-Project work participants also please make sure to prepare your data following the data format [guidelines](#data-cleaning). 
+Anyone is welcome to sit in on Day 2 without coding actively to get the conceptual ideas of model construction. For those newer to R there are cheat sheets and helpful resources on the [resources page](resources.md). 
+
+Project work participants also please make sure to prepare your data following the [data format guidelines](#data-cleaning). 
     
 Topic links in the [schedule](#schedule) will lead to brief summaries of covered content. At a later date slides and code files will be available for download as well. 
 
@@ -48,7 +50,9 @@ For reference on the level of R skills needed you can take a look at this introd
       
 ### JAGS
       
-JAGS is the program that we use to run our Bayesian models. Download the installation file [here](https://sourceforge.net/projects/mcmc-jags/) and run through the installation. 
+JAGS is the program that we use to run our Bayesian models. JAGS is a stand-alone program that needs to be installed seperately from R. We will run our models from R scripts that interface with the JAGS program through a set of R packages listed further down. 
+
+Download the [JAGS installation file](https://sourceforge.net/projects/mcmc-jags/) and run through the installation. 
       
 ### R packages
       
@@ -77,7 +81,9 @@ Some general data cleaning/formatting guidelines:
 
 Since most people will use some data that I have previously cleaned this will ensure that units and formats are compatible across data sets and you don't end up spending too much time reformating things during the workshop. 
 
-## WiFi
+<h2 id="wifi">
+WiFi
+</h2>
 
 Eduroam is available on UofU campus so if you have that set up it should work automatically. Setup will depend on your home institution so check Eduroam instructions there. 
 
