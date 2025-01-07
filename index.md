@@ -155,7 +155,7 @@ Find the location of FASB on the [campus map](https://map.utah.edu/?buildingnumb
 
 **Commuting by Bus/Trax:** The closest bus stops are the Kennecott Building stop (lines 1, 2, 223) and President's Circle (lines 213, 220). Stadium Station (Trax red line, bus lines 4, 455, 473) is about a 10 minute walk from FASB. 
 
-Public transportation tickets are 2.50$ and can be bought on the [Transit App[(https://www.rideuta.com/Fares-And-Passes/Transit-Mobile-Ticketing). 
+Public transportation tickets are 2.50$ and can be bought on the [Transit App](https://www.rideuta.com/Fares-And-Passes/Transit-Mobile-Ticketing). 
         
         
         
