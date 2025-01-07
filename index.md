@@ -5,7 +5,7 @@ date: "Jan 17-26 2024"
 output: html_document
 ---
 
-We will discuss Bayesian proxy system modelling of karst systems and stalagmite records and work on individual small projects. 
+We will discuss Bayesian proxy system modelling of karst systems and stalagmite records and work on individual small projects. The workshop will take place in the Geology & Geophysics, Fredrick Albert Sutton Building. See bewlo for more information on [how to get there](#location). 
 
 The workshop will start out with one day of lectures introducing fundamental concepts, which we will start applying in practical coding exercises on Day 2. See the full schedule [below](#schedule). 
   
@@ -16,7 +16,7 @@ Project work participants also please make sure to prepare your data following t
 Topic links in the [schedule](#schedule) will lead to brief summaries of covered content. At a later date slides and code files will be available for download as well. 
 
 Resources for project participants are available on a dedicated [ressources page](resources.md). 
-      
+
 <h1 id="prerequisites">
 Prerequisites
 </h1>
@@ -76,6 +76,12 @@ Some general data cleaning/formatting guidelines:
 - format dates into international format ("yyyy-mm-dd" or "dd-mm-yyy"), don't use "mm-dd-yyyy"
 
 Since most people will use some data that I have previously cleaned this will ensure that units and formats are compatible across data sets and you don't end up spending too much time reformating things during the workshop. 
+
+## WiFi
+
+Eduroam is available on UofU campus so if you have that set up it should work automatically. Setup will depend on your home institution so check Eduroam instructions there. 
+
+If you have issues with Eduroam you can connect to the UGuest WiFi instead. The U has a [UGuest connection guide](https://www.union.utah.edu/wp-content/uploads/sites/67/2024/06/UGuestGuide2022.pdf). You will need to enter a phone number to receive a confirmation code. 
       
 <h1 id="schedule">
 Schedule
@@ -132,7 +138,18 @@ Schedule
 | Fri Jan 24th | ~ 09:00 &ndash; 16:30  | GSCE Seminar Room |
 | Sat Jan 25th | ~ 09:00 &ndash; 16:30  | GSCE Seminar Room |
 | Sun Jan 26th | ~ 09:00 &ndash; 16:30  | GSCE Seminar Room |
-        
+
+<h1 id="location">
+Location
+</h1>
+
+We will meet in the Fredererick Albert Sutton Building (FASB, 115 S 1460 E, Salt Lake City, UT 84112) for all workshop days. Please check the room numbers for each day in the schedule above. On Friday we meet in Room 438 on the 4th floor (note that main entrance is on 2nd floor). If you enter through the main entrance head to your right and up the stairs/lift. 
+
+Find the location of FASB on the [campus map](https://map.utah.edu/?buildingnumber=12) and on [Google Maps](https://maps.app.goo.gl/58aHJL5Ey15PvQXA7). 
+
+**Commuting by Bus/Trax:** The closest bus stops are the Kennecott Building stop (lines 1, 2, 223) and President's Circle (lines 213, 220). Stadium Station (Trax red line, bus lines 4, 455, 473) is about a 10 minute walk from FASB. 
+
+Public transportation tickets are 2.50$ and can be bought on the [Transit App[(https://www.rideuta.com/Fares-And-Passes/Transit-Mobile-Ticketing). 
         
         
         
