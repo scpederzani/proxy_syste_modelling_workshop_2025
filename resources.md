@@ -1,4 +1,4 @@
-# Ressources for project work
+# Resources for project work
 
 ## Gridded climate data
 In your projects you can use several types of climate data inputs, often from gridded products. Data that I have used frequently up to now are:
@@ -6,6 +6,15 @@ In your projects you can use several types of climate data inputs, often from gr
 - [GridMET](https://www.climatologylab.org/gridmet.html) gridded interpolation of station meterological data, ~4km spatial resolution, daily data 1979-yesterday (updated daily)
 - [Livneh](https://climatedataguide.ucar.edu/climate-data/livneh-gridded-precipitation-and-other-meteorological-variables-continental-us-mexico) gridded precipitation amount data, ~6km spatial resolution, daily data 1979-2015
 - [Era5-Land](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview) reanalysis data, includes a large number of variables beyond meteorological observations, ~9km resolution, hourly data 1950-present
+
+## Literature
+### Hydrology functions
+
+**Non-linear discharge functions**
+
+1. Nazari & Seo (2021), Analytical solution for nonlinear hydrologic routing with general power-law storage function. [https://doi.org/10.1016/j.jhydrol.2021.126203](https://doi.org/10.1016/j.jhydrol.2021.126203)
+
+### Snow modelling
 
 ## JAGS
 
