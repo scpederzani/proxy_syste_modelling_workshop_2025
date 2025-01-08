@@ -17,7 +17,7 @@ Project work participants also please make sure to prepare your data following t
     
 Topic links in the [schedule](#schedule) will lead to brief summaries of covered content. At a later date slides and code files will be available for download as well. 
 
-Resources for project participants are available on a dedicated [ressources page](resources.md). 
+Resources for project participants are available on a dedicated [resources page](resources.md). 
 
 <h1 id="prerequisites">
 Prerequisites
