@@ -137,13 +137,13 @@ Schedule
         
 | Day          | Time            | Location          |
 | ------------ | --------------- | ----------------- |
-| Mon Jan 20th | ~ 09:00 &ndash; 16:30  | GSCE Seminar Room |
-| Tue Jan 21st | ~ 09:00 &ndash; 16:30  | GSCE Seminar Room |
-| Wed Jan 22nd | ~ 09:00 &ndash; 16:30  | GSCE Seminar Room |
+| Mon Jan 20th | ~ 09:00 &ndash; 16:30  | GCSC Seminar Room |
+| Tue Jan 21st | ~ 09:00 &ndash; 16:30  | GCSC Seminar Room |
+| Wed Jan 22nd | ~ 09:00 &ndash; 16:30  | GCSC Seminar Room |
 | Thu Jan 23rd | Day off         |  |
-| Fri Jan 24th | ~ 09:00 &ndash; 16:30  | GSCE Seminar Room |
-| Sat Jan 25th | ~ 09:00 &ndash; 16:30  | GSCE Seminar Room |
-| Sun Jan 26th | ~ 09:00 &ndash; 16:30  | GSCE Seminar Room |
+| Fri Jan 24th | ~ 09:00 &ndash; 16:30  | GCSC Seminar Room |
+| Sat Jan 25th | ~ 09:00 &ndash; 16:30  | GCSC Seminar Room |
+| Sun Jan 26th | ~ 09:00 &ndash; 16:30  | GCSC Seminar Room |
 
 <h1 id="location">
 Location
