@@ -24,7 +24,7 @@ Prerequisites
 </h1>
 
 ## Reading
-Fisher-Femal et al. paper on a soil carbonate Bayesian PSM
+Fischer-Femal et al. paper on a soil carbonate Bayesian PSM
 [https://doi.org/10.1016/j.gca.2020.10.022](https://doi.org/10.1016/j.gca.2020.10.022)
 
 Treble et al. preprint for the KarstSolution model, which is a good example of a (non-Bayesian) karst model
@@ -95,7 +95,7 @@ Schedule
       
 ## Friday
       
-| Time          | Fri Jan 17th - Room 438              | Format    | Instructor  |
+| Time          | Fri Jan 17th - Room 483              | Format    | Instructor  |
 | ------------- | ------------------------------------ | --------- | ----------- |
 | 09:00 &ndash; 10:30  | [Introduction to Proxy System Models](PSM_intro.md)  | Lecture   | Gabe        |
 | 10:30 &ndash; 11:00  | Morning Break                        |           |             |
@@ -149,7 +149,7 @@ Schedule
 Location
 </h1>
 
-We will meet in the Fredererick Albert Sutton Building (FASB, 115 S 1460 E, Salt Lake City, UT 84112) for all workshop days. Please check the room numbers for each day in the schedule above. On Friday we meet in Room 438 on the 4th floor (note that main entrance is on 2nd floor). If you enter through the main entrance head to your right and up the stairs/lift. 
+We will meet in the Fredererick Albert Sutton Building (FASB, 115 S 1460 E, Salt Lake City, UT 84112) for all workshop days. Please check the room numbers for each day in the schedule above. On Friday we meet in Room 483 on the 4th floor (note that main entrance is on the 2nd floor). If you enter through the main entrance head to your right and up the stairs/lift. Room 483 is on the south side of the building. 
 
 Find the location of FASB on the [campus map](https://map.utah.edu/?buildingnumber=12) and on [Google Maps](https://maps.app.goo.gl/58aHJL5Ey15PvQXA7). 
 
