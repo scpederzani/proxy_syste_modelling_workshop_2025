@@ -109,9 +109,9 @@ Schedule
         
 | Time          | Sat Jan 18th - Room 303              | Format    | Instructor  |
 | ------------- | ------------------------------------ | --------- | ----------- |
-| 09:00 &ndash; 10:30  | Forward Simulations Part 1           | Practical | Sarah       |
+| 09:00 &ndash; 10:30  | [Forward Simulations](Forward_modelling.md)         | Practical | Sarah       |
 | 10:30 &ndash; 11:00  | Morning Break                        |           |             |
-| 11:00 &ndash; 12:00  | Forward Simulations Part 2           | Practical | Sarah       |
+| 11:00 &ndash; 12:00  | Forward Simulations (cont.)          | Practical | Sarah       |
 | 12:00 &ndash; 13:00  | Lunch Break                          |           |             |
 | 13:00 &ndash; 14:30  | Bayesian Models in R and JAGS Part 1 | Practical | Sarah       |
 | 14:30 &ndash; 15:00  | Afternoon Break                      |           |             |
