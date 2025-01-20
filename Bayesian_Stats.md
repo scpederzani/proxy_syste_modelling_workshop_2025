@@ -7,3 +7,6 @@
 - obtaining the posterior - Markov Chain Monte Carlo
 - MCMC samplers, JAGS
 - running MCMC and model diagnostics
+
+# Slides
+[Get the Bayesian statistics lecture slides](slides/Day1_3_Bayesian_Statistics.pptx)
