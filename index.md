@@ -111,11 +111,11 @@ Schedule
 | ------------- | ------------------------------------ | --------- | ----------- |
 | 09:00 &ndash; 10:30  | [Forward Simulations](forward_modelling.md)         | Practical | Sarah       |
 | 10:30 &ndash; 11:00  | Morning Break                        |           |             |
-| 11:00 &ndash; 12:00  | Forward Simulations (cont.)          | Practical | Sarah       |
+| 11:00 &ndash; 12:00  | [Forward Simulations](forward_modelling.md) (cont.)          | Practical | Sarah       |
 | 12:00 &ndash; 13:00  | Lunch Break                          |           |             |
-| 13:00 &ndash; 14:30  | Bayesian Models in R and JAGS Part 1 | Practical | Sarah       |
+| 13:00 &ndash; 14:30  | [Bayesian Models in R and JAGS](bayesian_modelling.md) | Practical | Sarah       |
 | 14:30 &ndash; 15:00  | Afternoon Break                      |           |             |
-| 15:00 &ndash; 16:30  | Bayesian Models in R and JAGS Part 2 | Practical | Sarah       |
+| 15:00 &ndash; 16:30  | [Bayesian Models in R and JAGS](bayesian_modelling.md) (cont.) | Practical | Sarah       |
         
 ## Sunday
         
