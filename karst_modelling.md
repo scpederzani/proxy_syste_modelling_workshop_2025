@@ -8,6 +8,11 @@ FASB, Room 483
 - introduction to main mechanisms represented
 - mathematical representations of hydrological processes
 - introduction to mixing models
+- basics of carbonate geochemistry and equilibrium reactions
+- growth rate equations
+  
+## Slides
+
+[Karst modelling powerpoint slides](slides/Day1_2_Karst_Modelling.pptx)
 
 
-## Reading
